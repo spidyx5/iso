@@ -1,6 +1,7 @@
 cat <<EOF >/etc/tinyramfs/config
 root=overlay
 root_type=overlay
+rorw=rw
 live_disk_type=label
 live_disk=EWE_ISO
 hooks=mdev,plymouth,live

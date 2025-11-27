@@ -8,7 +8,6 @@ linux-firmware-amdgpu
 linux-firmware-iwlwifi
 linux-firmware-mediatek
 linux-firmware-qcom
-linux-firmware-intel
 llvm
 wpa_supplicant
 seatd
@@ -16,7 +15,7 @@ networkmanager
 plymouth
 arch-install-scripts
 e2fsprogs
- lvm2
+lvm2
 btop
 xdg-user-dirs
 musl-locales

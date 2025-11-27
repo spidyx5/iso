@@ -8,7 +8,6 @@ linux-firmware-amdgpu
 linux-firmware-iwlwifi
 linux-firmware-mediatek
 linux-firmware-qcom
-linux-firmware-intel
 llvm
 wpa_supplicant
 seatd
